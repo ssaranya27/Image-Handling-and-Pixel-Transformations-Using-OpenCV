@@ -14,9 +14,6 @@ Write a Python program using OpenCV that performs the following tasks:
 
 ## Algorithm:
 
-## PROGRAM DEVELOPED BY:
-## NAME: SARANYA S.
-## REG NO: 212223220101
 ### Step 1:
 Load an image from your local directory and display it.
 ```
@@ -38,8 +35,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** [Your Name Here]  
-- **Register Number:** [Your Register Number Here]
+- **Name:** SARANYA S
+- **Register Number:** 212223220101
 
   ### Ex. No. 01
 
