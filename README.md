@@ -13,6 +13,10 @@ Write a Python program using OpenCV that performs the following tasks:
 - Jupyter Notebook (for interactive development and execution)
 
 ## Algorithm:
+
+## PROGRAM DEVELOPED BY:
+## NAME: SARANYA S.
+## REG NO: 212223220101
 ### Step 1:
 Load an image from your local directory and display it.
 ```
@@ -221,10 +225,53 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
+  1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
   
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
+  <img width="764" height="586" alt="image" src="https://github.com/user-attachments/assets/373385a0-fbe2-44f5-b14f-80f5d6921278" />
+
+ 2.Save image as PNG and display:
+ 
+ <img width="742" height="594" alt="image" src="https://github.com/user-attachments/assets/a7ba9fd1-3670-440a-8f76-5953f96eee45" />
+
+ 3.Cropped image:
+ 
+ <img width="699" height="586" alt="image" src="https://github.com/user-attachments/assets/6eba3a08-3a62-4cfb-a1ef-ebaacfa31fbd" />
+
+4.Resize and flip Horizontally:
+
+ <img width="436" height="465" alt="image" src="https://github.com/user-attachments/assets/bb9344ba-0ecc-4920-a5a7-5d913c498180" />
+
+5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+
+<img width="769" height="447" alt="image" src="https://github.com/user-attachments/assets/44878c50-a9a1-4a22-833d-00494b6f521c" />
+
+- **ii)** Adjust Image Brightness.
+  
+ 1 .Create brighter and darker images and display:
+ 
+  <img width="1325" height="345" alt="image" src="https://github.com/user-attachments/assets/7deee422-8182-4b67-9066-5d37c7e379c1" />
+
+- **iii)** Modify Image Contrast.
+  Modify contrast using scaling factors 1.1 and 1.2:
+  
+<img width="1330" height="344" alt="image" src="https://github.com/user-attachments/assets/a9a7d7c7-4640-4f53-b481-feee957b375c" />
+
 - **iv)** Generate Third Image Using Bitwise Operations.
+1.Split 'Boy.jpg' into B, G, R components and display:
+  
+<img width="1337" height="340" alt="image" src="https://github.com/user-attachments/assets/310c7da5-f377-4ca2-be88-5a438c2317f7" />
+  
+2.Merge the R, G, B channels and display:
+
+<img width="742" height="585" alt="image" src="https://github.com/user-attachments/assets/d8aecfd9-4065-4dc1-94c2-d3ee4edf69b4" />
+
+3.Split the image into H, S, V components and display:
+
+<img width="1352" height="348" alt="image" src="https://github.com/user-attachments/assets/173eac26-1243-4083-8916-d48406a8007b" />
+
+4.Merge the H, S, V channels and display:
+
+<img width="715" height="590" alt="image" src="https://github.com/user-attachments/assets/e3490875-761f-48b2-a72c-772b1bdcebef" />
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
