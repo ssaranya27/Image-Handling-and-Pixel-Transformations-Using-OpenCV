@@ -17,6 +17,8 @@ Write a Python program using OpenCV that performs the following tasks:
 ### Step 1:
 Load an image from your local directory and display it.
 ```
+import cv2
+import matplotlib.pyplot as plt
 img_gray = cv2.imread('Eagle_in_Flight.jpg', cv2.IMREAD_GRAYSCALE)
 ```
 
